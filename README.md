@@ -3,4 +3,4 @@
 
 🦁 2022~ Likelion 10th
 
-**𝐆**  2022~ GDSC
+🅶 2022~ GDSC
