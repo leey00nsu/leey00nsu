@@ -4,5 +4,7 @@
 🦁 2022~ Likelion 10th
 
 🇰🇷 2022~ GDSC
+------------------------------
+🍄 2022 Project MOD Supporters
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyoonsu96)](https://solved.ac/leeyoonsu96/)
