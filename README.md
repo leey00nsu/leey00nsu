@@ -1,5 +1,5 @@
 # leey00nsu.git.io
-💻 Front-End / Web Developer
+💻 [Front-End / Web Developer](leey00nsu.github.io)
 
 🦁 2022 Likelion 10th
 
@@ -8,7 +8,5 @@
 🍄 2022 Project MOD Supporters
 
 ------------------------------
-
-leey00nsu.github.io
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyoonsu96)](https://solved.ac/leeyoonsu96/)
