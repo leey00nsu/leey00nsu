@@ -1,6 +1,6 @@
 # leey00nsu.git.io
-💻 [Front-End / Web Developer](leey00nsu.github.io)
-
+💻 [Front-End / Web Developer](https://leey00nsu.github.io/)
+ 
 🦁 2022 Likelion 10th
 
 🇰🇷 2022 Google Developer Student Club
