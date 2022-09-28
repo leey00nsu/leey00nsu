@@ -9,4 +9,8 @@
 
 ------------------------------
 
+🏅 2022 SYU SW Project Contest 최우수상
+
+------------------------------
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyoonsu96)](https://solved.ac/leeyoonsu96/)
