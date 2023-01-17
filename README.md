@@ -1,11 +1,13 @@
 # leey00nsu.git.io
 💻 [Front-End / Web Developer](https://leey00nsu.github.io/)
  
-🦁 2022 Likelion 10th
+🦁 2022 Likelion 10th (Member)
 
 🇰🇷 2022 Google Developer Student Club
 
 🍄 2022 Project MOD Supporters
+
+🦁 2023 Likelion 11th (Manager)
 
 ------------------------------
 
