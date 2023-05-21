@@ -1,5 +1,5 @@
 # leey00nsu.git.io
-💻 [Front-End / Web Developer](https://leey00nsu.github.io/)
+💻 [Front-End / Web Developer](https://leeyoonsu-portfolio.vercel.app/)
  
 🦁 2022 ~ 2023 Likelion 10th as Member , 11th as Manager
 
