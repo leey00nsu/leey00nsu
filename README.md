@@ -4,4 +4,6 @@
 🦁 2022 ~ 2023 Likelion 10th as Member , 11th as Manager
 
 🇰🇷 2022 ~ 2023 Google Developer Student Club
+
+💼 2024 ~ 2025 Ecount
  
